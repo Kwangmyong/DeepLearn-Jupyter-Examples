@@ -8,4 +8,7 @@ Example 2
 - [MLP (Keras with MNIST)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_MNIST_MLP.ipynb)
 
 Example 3
-- [CNN (Keras with MNIS
+- [CNN (Keras with MNIST)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_MNIST_CNN.ipynb)
+
+Example 4
+- [Preprocess (Keras with IMDb)](https://github.com/Kwangm
