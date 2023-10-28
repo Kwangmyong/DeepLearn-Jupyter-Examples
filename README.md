@@ -11,4 +11,7 @@ Example 3
 - [CNN (Keras with MNIST)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_MNIST_CNN.ipynb)
 
 Example 4
-- [Preprocess (Keras with IMDb)](https://github.com/Kwangm
+- [Preprocess (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_Preprocess.ipynb)
+
+Example 5
+- [MLP (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_M
