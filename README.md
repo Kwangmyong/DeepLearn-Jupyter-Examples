@@ -23,4 +23,7 @@ Example 7
 - [LSTM (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_LSTM.ipynb)
 
 Example 8
-- [Preprocess (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jup
+- [Preprocess (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_Titanic_Preprocess.ipynb)
+
+Example 9
+- [MLP (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_
