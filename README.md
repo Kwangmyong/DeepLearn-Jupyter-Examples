@@ -20,4 +20,7 @@ Example 6
 - [RNN (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_RNN.ipynb)
 
 Example 7
-- [LSTM (Keras with IMDb)](http
+- [LSTM (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_LSTM.ipynb)
+
+Example 8
+- [Preprocess (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jup
