@@ -26,4 +26,7 @@ Example 8
 - [Preprocess (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_Titanic_Preprocess.ipynb)
 
 Example 9
-- [MLP (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_
+- [MLP (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_Titanic_MLP.ipynb)
+
+Example 10
+- [Jack and Rose (Keras with Titanic)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_Titanic_Jack_and_Rose.ipynb)
