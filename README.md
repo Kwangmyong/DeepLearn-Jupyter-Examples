@@ -14,4 +14,10 @@ Example 4
 - [Preprocess (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_Preprocess.ipynb)
 
 Example 5
-- [MLP (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_M
+- [MLP (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_MLP.ipynb)
+
+Example 6
+- [RNN (Keras with IMDb)](https://github.com/Kwangmyong/DeepLearn-Jupyter-Examples/blob/master/Keras_IMDb_RNN.ipynb)
+
+Example 7
+- [LSTM (Keras with IMDb)](http
